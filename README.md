@@ -1,4 +1,6 @@
 ->THIS IS A PROJECT CREATED FOR JAVA PRE-REQUISITE COURSE
+
+
 ->IT CONTAINS 20 QUESTIONS
 There are 20 class files for all the questions. There is Main.java file in which I have created an object for all the 20 classes and comment it out. 
 To run each question, just uncomment that particular object creation. 
